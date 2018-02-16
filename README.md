@@ -1,3 +1,3 @@
-# imad-app
+# JS Project
 
 IMAD course application.
